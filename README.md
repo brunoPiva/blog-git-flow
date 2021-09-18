@@ -2,22 +2,22 @@
 
 ## Descrição do Projeto
 <p>Blog para exercitar o Git Flow</p>
----
+
 
 Tabela de conteúdos
 ===============
 
 <!--ts-->
 * [Objetivo](#Objetivo)
-* [Roadmap](#Roadmap)
+* [Features](#Features)
 * [Tecnologias](#Tecnologias)
-* [Autor](#Autor)
 <!--te-->
 ---
 
-<h4 align="center"> 
-	🚧  Blog Git Flow 🚀 Em construção...  🚧
-</h4>
+Objetivo
+========
+
+<p>Este projeto tem como objetivo treinar o uso do Git Flow em um caso de uso de um blog fictício</p>
 ---
 
 ### Features
@@ -28,3 +28,15 @@ Tabela de conteúdos
 - [ ] Página do post
 
 ---
+
+Tecnologias
+===========
+
+<p>Este blog usará: </p>
+
+<!-- ts -->
+* PHP
+* MySQL
+<!-- te -->
+---
+
