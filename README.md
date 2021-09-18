@@ -23,8 +23,8 @@ Tabela de conteúdos
 ---
 
 ### Features
-- [ ] Header
-- [ ] Footer
+- [x] Header
+- [x] Footer
 - [ ] Homepage
 - [ ] Lista de posts
 - [ ] Página do post
