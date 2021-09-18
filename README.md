@@ -18,12 +18,14 @@ Objetivo
 ========
 
 <p>Este projeto tem como objetivo treinar o uso do Git Flow em um caso de uso de um blog fictício</p>
+
 ---
 
 ### Features
 - [x] Header
 - [x] Footer
-- [ ] Homepage
+- [x] Homepage
+- [ ] Configuração BD
 - [ ] Lista de posts
 - [ ] Página do post
 
